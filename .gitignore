@@ -1,0 +1,20 @@
+# Eclipse
+.project
+.settings
+.classpath
+
+# IntelliJ
+*.iml
+.idea
+
+# Maven
+target
+
+# Divers
+*.log
+*.gz
+.attach_pid*
+codeclimate.json
+
+# Docker
+out
