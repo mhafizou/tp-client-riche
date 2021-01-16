@@ -1,2 +1,2 @@
-# tp-iut-client-riche
+# tp-client-riche
 TP programmation web client riche
