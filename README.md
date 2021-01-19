@@ -9,7 +9,13 @@ Le projet est composé de 5 sujets
 * MVC et utilisation du framework VueJS
 * Les composants
 
-# Commandes Git de base pour manipuler le TP
+# Outil de développement
+
+Pour effectuer les exercices, un IDE ou un éditeur de texte est nécessaire pour modifier les fichiers HTML, CSS et Javascript.
+
+Vous pouvez utiliser [IntelliJ](https://www.jetbrains.com/fr-fr/idea/download/#section=linux) ou l'éditeur de texte [Atom](https://atom.io/)
+
+# Commandes Git de base pour manipuler le TP en ligne de commande
 
 Installation de git si besoin -> [ici](https://git-scm.com/book/fr/v2/D%C3%A9marrage-rapide-Installation-de-Git)
 
@@ -37,3 +43,5 @@ Voir l'état d'une branche (fichiers modifiés)
 ```bash
 git status
 ```
+
+_Si vous passez par IntelliJ ou Atom, git est déjà intégré dans ces outils. Les commandes ci-dessus ne seront pas nécessaires._
