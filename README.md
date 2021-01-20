@@ -17,11 +17,10 @@ Vous pouvez utiliser [IntelliJ](https://www.jetbrains.com/fr-fr/idea/download/#s
 
 # Quelques liens pratiques
 
-[HTML](https://developer.mozilla.org/fr/docs/Web/HTML)
-[CSS](https://developer.mozilla.org/fr/docs/Web/CSS)
-[Javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript)
-
-[Javascript WTF](https://javascriptwtf.com/)
+* [HTML](https://developer.mozilla.org/fr/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/fr/docs/Web/CSS)
+* [Javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+* [Javascript WTF](https://javascriptwtf.com/)
 
 
 # Commandes Git de base pour manipuler le TP en ligne de commande
