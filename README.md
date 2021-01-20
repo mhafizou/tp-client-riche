@@ -15,6 +15,15 @@ Pour effectuer les exercices, un IDE ou un éditeur de texte est nécessaire pou
 
 Vous pouvez utiliser [IntelliJ](https://www.jetbrains.com/fr-fr/idea/download/#section=linux) ou l'éditeur de texte [Atom](https://atom.io/)
 
+# Quelques liens pratiques
+
+[HTML](https://developer.mozilla.org/fr/docs/Web/HTML)
+[CSS](https://developer.mozilla.org/fr/docs/Web/CSS)
+[Javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript)
+
+[Javascript WTF](https://javascriptwtf.com/)
+
+
 # Commandes Git de base pour manipuler le TP en ligne de commande
 
 Installation de git si besoin -> [ici](https://git-scm.com/book/fr/v2/D%C3%A9marrage-rapide-Installation-de-Git)
