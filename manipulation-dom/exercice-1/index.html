@@ -6,7 +6,17 @@
     <script type="text/javascript" src="index.js"></script>
     <link rel="stylesheet" href="index.css">
 </head>
-<body>
-<!-- TEMPLATE HTML -->
+<body >
+  <button onclick="showModal()" type="button" id="btn1">Afficher la modal</button>
+  
+  <br>
+
+  <div id="modal_background" class="modal_background displayNone">
+    <div id="modal_content" class="modal_content">
+      <button id="close_button" class="close_button" onclick="closeModal()">&times</button>
+      <img id="imgModal" class="img_modal" src="https://source.unsplash.com/random/200x200">
+      <p>Une image</p>
+    </div>
+  </div>
 </body>
 </html>
